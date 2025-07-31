@@ -1,0 +1,243 @@
+{
+  "Apple___Apple_scab": {
+      "Symptoms": "Olive-green to black spots on leaves, fruit, and twigs; premature leaf drop.",
+      "Causes": "Fungal infection caused by *Venturia inaequalis*, spreads through rain and wind.",
+      "Natural Treatment": "Improve air circulation by pruning, remove fallen leaves, and apply organic sprays like neem oil or compost tea.",
+      "Recommendation": "Apply fungicides like Captan or Mancozeb. Remove infected leaves and ensure good air circulation."
+  },
+  "Apple___Black_rot": {
+      "Symptoms": "Dark brown lesions on fruit, leaf spots, and cankers on branches.",
+      "Causes": "Fungus *Botryosphaeria obtusa* spread via wind, rain, and infected plant debris.",
+      "Natural Treatment": "Remove infected branches and fruit, apply sulfur-based sprays, and improve orchard sanitation.",
+      "Recommendation": "Prune infected branches, remove mummified fruit, and use copper-based fungicides."
+  },
+  "Apple___Cedar_apple_rust": {
+      "Symptoms": "Orange or rust-colored spots on leaves, deformed fruit.",
+      "Causes": "Fungus *Gymnosporangium juniperi-virginianae*, spreads from juniper trees.",
+      "Natural Treatment": "Remove nearby juniper trees, apply organic sulfur-based fungicides.",
+      "Recommendation": "Use Myclobutanil fungicide and remove alternate host plants."
+  },
+  "Apple___healthy": {
+      "Symptoms": "Healthy leaves, fruit, and branches with no visible disease signs.",
+      "Causes": "Proper care, nutrition, and disease prevention.",
+      "Natural Treatment": "Maintain proper irrigation, pruning, and organic fertilization.",
+      "Recommendation": "Continue good cultural practices, pruning, and balanced fertilization."
+  },
+  "Blueberry___healthy": {
+      "Symptoms": "No visible diseases, healthy green foliage and fruit.",
+      "Causes": "Optimal soil pH, watering, and pest control.",
+      "Natural Treatment": "Regular soil testing, organic compost, and mulching.",
+      "Recommendation": "Ensure proper watering, soil pH balance, and fertilization."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+      "Symptoms": "White powdery coating on leaves, buds, and fruit.",
+      "Causes": "Fungus *Podosphaera clandestina*, thrives in warm, humid conditions.",
+      "Natural Treatment": "Apply neem oil or baking soda spray, prune for better air circulation.",
+      "Recommendation": "Use sulfur-based fungicides and remove infected plant parts."
+  },
+  "Cherry_(including_sour)___healthy": {
+      "Symptoms": "Healthy leaves and fruit with no fungal or bacterial infection.",
+      "Causes": "Proper plant care, pruning, and fertilization.",
+      "Natural Treatment": "Monitor for pests, use organic compost and balanced fertilizers.",
+      "Recommendation": "Maintain regular watering, pruning, and disease monitoring."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+      "Symptoms": "Grayish lesions on leaves that expand into streaks.",
+      "Causes": "Fungal infection caused by *Cercospora zeae-maydis*.",
+      "Natural Treatment": "Crop rotation, avoid overhead watering, and use compost tea.",
+      "Recommendation": "Use resistant varieties, rotate crops, and apply appropriate fungicides."
+  },
+  "Corn_(maize)___Common_rust_": {
+      "Symptoms": "Reddish-brown pustules on leaves.",
+      "Causes": "Fungus *Puccinia sorghi*, spread by wind.",
+      "Natural Treatment": "Improve plant spacing, remove infected leaves, and use organic copper-based sprays.",
+      "Recommendation": "Use resistant varieties and apply azoxystrobin fungicide."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+      "Symptoms": "Tan-colored lesions on leaves with a cigar-like shape.",
+      "Causes": "Fungal infection by *Exserohilum turcicum*.",
+      "Natural Treatment": "Use resistant hybrids, improve air circulation, and apply potassium bicarbonate spray.",
+      "Recommendation": "Apply fungicides at early infection stages and rotate crops."
+  },
+  "Corn_(maize)___healthy": {
+      "Symptoms": "Healthy green leaves with no signs of fungal or bacterial infection.",
+      "Causes": "Proper nutrition, disease prevention, and irrigation.",
+      "Natural Treatment": "Use organic fertilizers and maintain adequate plant spacing.",
+      "Recommendation": "Monitor crop health, ensure proper fertilization and pest control."
+  },
+  "Grape___Black_rot": {
+      "Symptoms": "Dark brown spots on leaves, fruit shriveling, and cankers.",
+      "Causes": "Fungal infection by *Guignardia bidwellii*.",
+      "Natural Treatment": "Prune vines properly, remove infected parts, and apply organic copper sprays.",
+      "Recommendation": "Use fungicides like Captan or Mancozeb to control infection."
+  },
+  "Grape___Esca_(Black_Measles)": {
+      "Symptoms": "Dark streaks inside the wood, leaf yellowing, and fruit shriveling.",
+      "Causes": "Fungal disease complex including *Phaeoacremonium* and *Phaeomoniella* species.",
+      "Natural Treatment": "Use balanced organic fertilizers, prune infected parts, and ensure proper irrigation.",
+      "Recommendation": "Apply fungicides and avoid wounding the vines."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "Symptoms": "Brown irregular spots on leaves, eventually causing leaf drop.",
+      "Causes": "Fungal infection by *Isariopsis clavispora*.",
+      "Natural Treatment": "Improve air circulation, use compost-based sprays, and remove infected leaves.",
+      "Recommendation": "Use Bordeaux mixture or copper fungicides."
+  },
+  "Grape___healthy": {
+      "Symptoms": "Vibrant green leaves, healthy fruit clusters, no visible diseases.",
+      "Causes": "Proper vineyard management, irrigation, and disease prevention.",
+      "Natural Treatment": "Use organic compost and balanced pruning techniques.",
+      "Recommendation": "Continue good vineyard practices and proper irrigation."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "Symptoms": "Yellowing leaves, misshapen fruit, bitter taste, stunted growth.",
+    "Causes": "Caused by *Candidatus Liberibacter* bacteria, spread by psyllid insects.",
+    "Natural Treatment": "Use natural predators like parasitic wasps to control psyllids, apply neem oil sprays.",
+    "Recommendation": "No cure exists; remove infected trees and control psyllid populations with insecticides."
+},
+
+"Peach___Bacterial_spot": {
+    "Symptoms": "Small dark spots on leaves and fruit, premature leaf drop, sunken lesions on fruit.",
+    "Causes": "Caused by *Xanthomonas arboricola* bacteria, spreads in humid conditions.",
+    "Natural Treatment": "Use copper-based organic sprays, prune infected leaves, improve air circulation.",
+    "Recommendation": "Apply copper-based bactericides, avoid overhead watering, and use resistant varieties."
+},
+
+"Peach___healthy": {
+    "Symptoms": "Lush green leaves, healthy fruit development, strong branches.",
+    "Causes": "Proper watering, fertilization, and pest control.",
+    "Natural Treatment": "Use compost and organic mulch to enhance soil health.",
+    "Recommendation": "Ensure proper irrigation, fertilization, and regular monitoring for pests."
+},
+
+"Pepper,_bell___Bacterial_spot": {
+    "Symptoms": "Water-soaked lesions on leaves, dark spots on fruit, defoliation.",
+    "Causes": "Caused by *Xanthomonas campestris* bacteria, thrives in warm, wet conditions.",
+    "Natural Treatment": "Apply copper-based organic sprays, remove infected plants, use resistant varieties.",
+    "Recommendation": "Use disease-free seeds, apply copper sprays, and avoid overhead watering."
+},
+
+"Pepper,_bell___healthy": {
+    "Symptoms": "Deep green leaves, firm fruit, no disease symptoms.",
+    "Causes": "Proper nutrition, pest control, and well-drained soil.",
+    "Natural Treatment": "Use compost and natural fertilizers like fish emulsion.",
+    "Recommendation": "Maintain healthy soil, monitor for pests, and ensure adequate watering."
+},
+
+"Potato___Early_blight": {
+    "Symptoms": "Dark brown spots with concentric rings on leaves, yellowing foliage.",
+    "Causes": "Caused by *Alternaria solani* fungus, spreads through soil and plant debris.",
+    "Natural Treatment": "Rotate crops, remove infected plant debris, apply neem oil.",
+    "Recommendation": "Apply fungicides like chlorothalonil, use resistant varieties, and practice crop rotation."
+},
+
+"Potato___Late_blight": {
+    "Symptoms": "Dark, water-soaked lesions on leaves, white fungal growth, rapid plant decay.",
+    "Causes": "Caused by *Phytophthora infestans* pathogen, spreads in cool, humid conditions.",
+    "Natural Treatment": "Remove infected plants, apply copper fungicides, ensure good air circulation.",
+    "Recommendation": "Use fungicides like metalaxyl, practice crop rotation, and remove infected plants immediately."
+},
+
+"Potato___healthy": {
+    "Symptoms": "Green, upright plants, no visible spots or lesions on leaves.",
+    "Causes": "Proper soil health management and pest control.",
+    "Natural Treatment": "Use organic compost and proper irrigation techniques.",
+    "Recommendation": "Ensure balanced fertilization, practice proper crop rotation, and monitor plant health."
+},
+
+"Raspberry___healthy": {
+    "Symptoms": "Healthy green leaves, abundant fruit production, no signs of disease.",
+    "Causes": "Optimal soil conditions, proper watering, and pest control.",
+    "Natural Treatment": "Apply mulch to retain moisture and prevent weed growth.",
+    "Recommendation": "Ensure good air circulation, maintain disease-free planting materials, and use organic mulch."
+},
+
+"Soybean___healthy": {
+    "Symptoms": "Dark green leaves, strong plant structure, no visible signs of disease.",
+    "Causes": "Proper soil fertility and pest control.",
+    "Natural Treatment": "Use crop rotation and natural pest deterrents like marigolds.",
+    "Recommendation": "Monitor for pests and diseases, maintain soil health, and ensure proper irrigation."
+},
+
+"Squash___Powdery_mildew": {
+    "Symptoms": "White powdery patches on leaves, stunted plant growth, yellowing foliage.",
+    "Causes": "Caused by *Podosphaera xanthii* fungus, thrives in dry and humid conditions.",
+    "Natural Treatment": "Apply sulfur or potassium bicarbonate-based fungicides, use milk spray as a natural remedy.",
+    "Recommendation": "Increase air circulation, apply sulfur-based fungicides, and avoid overhead watering."
+},
+
+"Strawberry___Leaf_scorch": {
+    "Symptoms": "Purple to brown spots on leaves, dried leaf edges, reduced fruit yield.",
+    "Causes": "Caused by *Diplocarpon earlianum* fungus, spreads in humid conditions.",
+    "Natural Treatment": "Remove infected leaves, apply neem oil, improve air circulation.",
+    "Recommendation": "Apply fungicides like captan, ensure proper spacing between plants, and remove infected foliage."
+},
+
+"Strawberry___healthy": {
+    "Symptoms": "Bright green foliage, plump fruit, no signs of disease.",
+    "Causes": "Proper care, balanced fertilization, and pest control.",
+    "Natural Treatment": "Use straw mulch to prevent soil splashing and disease spread.",
+    "Recommendation": "Maintain good soil drainage, ensure proper irrigation, and monitor plant health regularly."
+},
+
+"Tomato___Bacterial_spot": {
+  "Symptoms": "Small dark spots on leaves and fruit, water-soaked lesions.",
+  "Causes": "Caused by *Xanthomonas* bacteria, spreads in warm, wet conditions.",
+  "Natural Treatment": "Apply copper-based sprays, remove infected leaves, and use disease-free seeds.",
+  "Recommendation": "Rotate crops, avoid overhead watering, and disinfect gardening tools."
+},
+"Tomato___Early_blight": {
+  "Symptoms": "Brown spots on lower leaves, yellowing foliage, stem lesions.",
+  "Causes": "Caused by *Alternaria solani* fungus, spreads through soil and air.",
+  "Natural Treatment": "Apply compost tea, remove infected leaves, and use mulch.",
+  "Recommendation": "Apply fungicides, practice crop rotation, and ensure good air circulation."
+},
+"Tomato___Late_blight": {
+  "Symptoms": "Dark, water-soaked spots on leaves, white fungal growth on leaf undersides.",
+  "Causes": "Caused by *Phytophthora infestans*, spreads in humid conditions.",
+  "Natural Treatment": "Use copper sprays, remove infected plants, and apply neem oil.",
+  "Recommendation": "Use resistant varieties, apply fungicides, and space plants properly."
+},
+"Tomato___Leaf_Mold": {
+  "Symptoms": "Yellow spots on upper leaves, velvety olive-green mold underneath.",
+  "Causes": "Caused by *Passalora fulva* fungus, spreads in humid areas.",
+  "Natural Treatment": "Increase air circulation, apply neem oil, and prune infected leaves.",
+  "Recommendation": "Use resistant varieties, apply copper fungicides, and reduce greenhouse humidity."
+},
+"Tomato___Septoria_leaf_spot": {
+  "Symptoms": "Small circular brown spots on lower leaves, yellowing foliage.",
+  "Causes": "Caused by *Septoria lycopersici* fungus, spreads in warm, wet conditions.",
+  "Natural Treatment": "Apply neem oil, remove infected leaves, and use mulch.",
+  "Recommendation": "Apply fungicides, improve air circulation, and practice crop rotation."
+},
+"Tomato___Spider_mites Two-spotted_spider_mite": {
+  "Symptoms": "Tiny yellow specks on leaves, webbing under leaves, leaf curling.",
+  "Causes": "Caused by *Tetranychus urticae* mites, spreads in dry and warm conditions.",
+  "Natural Treatment": "Spray neem oil, introduce ladybugs or predatory mites, and mist plants regularly.",
+  "Recommendation": "Increase humidity, avoid over-fertilization, and apply insecticidal soap if needed."
+},
+"Tomato___Target_Spot": {
+  "Symptoms": "Dark concentric rings on leaves, fruit rot, defoliation.",
+  "Causes": "Caused by *Corynespora cassiicola* fungus, spreads through infected debris and water splash.",
+  "Natural Treatment": "Apply copper fungicides, remove affected leaves, and ensure proper ventilation.",
+  "Recommendation": "Use resistant varieties, apply fungicides early, and avoid overhead watering."
+},
+"Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+  "Symptoms": "Upward curling leaves, stunted growth, yellowing leaf edges.",
+  "Causes": "Spread by whiteflies, common in hot climates.",
+  "Natural Treatment": "Control whiteflies using neem oil or insecticidal soap.",
+  "Recommendation": "Use resistant varieties, remove infected plants, and install sticky traps."
+},
+"Tomato___Tomato_mosaic_virus": {
+  "Symptoms": "Mottled yellow-green leaves, distorted fruit, stunted plant growth.",
+  "Causes": "Caused by *Tomato mosaic virus (ToMV)*, spreads through contaminated tools and hands.",
+  "Natural Treatment": "Remove and destroy infected plants, disinfect tools regularly.",
+  "Recommendation": "Use virus-resistant varieties, sanitize tools, and avoid tobacco products near plants."
+},
+"Tomato___healthy": {
+  "Symptoms": "Deep green leaves, strong plant structure, healthy fruit development.",
+  "Causes": "Balanced nutrition, proper watering, and disease prevention.",
+  "Natural Treatment": "Use compost and organic fertilizers.",
+  "Recommendation": "Ensure proper nutrition, monitor for pests, and practice good irrigation."
+}
+}

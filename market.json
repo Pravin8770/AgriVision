@@ -1,0 +1,20 @@
+{
+    "crops": {
+        "Wheat": {"min_price": 1600, "max_price": 2200},
+        "Rice": {"min_price": 1900, "max_price": 2600},
+        "Corn": {"min_price": 1300, "max_price": 1900},
+        "Sugarcane": {"min_price": 2800, "max_price": 3400},
+        "Soybean": {"min_price": 3000, "max_price": 4200},
+        "Cotton": {"min_price": 4500, "max_price": 5500},
+        "Tomato": {"min_price": 1000, "max_price": 1500},
+        "Onion": {"min_price": 1200, "max_price": 1800},
+        "Potato": {"min_price": 800, "max_price": 1400},
+        "Groundnut": {"min_price": 3200, "max_price": 4000},
+        "Barley": {"min_price": 1400, "max_price": 2000},
+        "Peas": {"min_price": 2500, "max_price": 3000},
+        "Mustard": {"min_price": 3800, "max_price": 4600},
+        "Sunflower": {"min_price": 4000, "max_price": 5200},
+        "Chickpeas": {"min_price": 3000, "max_price": 3800},
+        "Lentils": {"min_price": 3500, "max_price": 4500}
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "Pune": [
+        {
+            "name": "K.C. Badera",
+            "address": "Narayangaon, Pune",
+            "lat": 19.1136,
+            "lon": 74.1052
+        }
+    ],
+    "Nashik": [
+        {
+            "name": "Agro Input Marketing Services",
+            "address": "Panchavati, Nashik",
+            "lat": 20.011,
+            "lon": 73.7903
+        },
+        {
+            "name": "Agro Polyclinic & Services",
+            "address": "Dindori Road, Panchavati, Nashik",
+            "lat": 20.0209,
+            "lon": 73.7898
+        }
+    ],
+    "Dhule": [
+        {
+            "name": "Krushiraj Plus Fertilizers",
+            "address": "Goregaon, Mumbai (Also serves in Dhule)",
+            "lat": 19.1551,
+            "lon": 72.8497
+        }
+    ],
+    "Beed": [
+        {
+            "name": "Shree Krishna Agro",
+            "address": "Ambajogai Road, Beed",
+            "lat": 18.99,
+            "lon": 75.76
+        },
+        {
+            "name": "Rudra Agro Services",
+            "address": "Shivaji Nagar, Beed",
+            "lat": 18.995,
+            "lon": 75.765
+        }
+    ],
+    "Amravati": [
+        {
+            "name": "Kanhoa Krushi Kendra",
+            "address": "MIDC Industrial Area, Amravati",
+            "lat": 20.9237,
+            "lon": 77.7517
+        },
+        {
+            "name": "Agro Sales and Services",
+            "address": "Old Cotton Market Road, Amravati",
+            "lat": 20.933,
+            "lon": 77.758
+        }
+    ],
+    "Kolhapur": [
+        {
+            "name": "Kolhapur Agro Services",
+            "address": "Shivaji Chowk, Kolhapur",
+            "lat": 16.705,
+            "lon": 74.2433
+        }
+    ],
+    "Satara": [
+        {
+            "name": "Satara Krushi Seva Kendra",
+            "address": "Powai Naka, Satara",
+            "lat": 17.685,
+            "lon": 73.993
+        }
+    ],
+    "Sangli": [
+        {
+            "name": "Sangli Agro Products",
+            "address": "Vishrambag, Sangli",
+            "lat": 16.8524,
+            "lon": 74.5815
+        }
+    ],
+    "Jalgaon": [
+        {
+            "name": "Jalgaon Fertilizers",
+            "address": "Ganesh Colony, Jalgaon",
+            "lat": 21.0077,
+            "lon": 75.5626
+        }
+    ],
+    "Aurangabad": [
+        {
+            "name": "Aurangabad Agro Mart",
+            "address": "Garkheda, Aurangabad",
+            "lat": 19.8762,
+            "lon": 75.3433
+        }
+    ],
+    "Nagpur": [
+        {
+            "name": "Nagpur Agro Traders",
+            "address": "Dharampeth, Nagpur",
+            "lat": 21.1466,
+            "lon": 79.0888
+        }
+    ],
+    "Solapur": [
+        {
+            "name": "Solapur Agrotech",
+            "address": "Hotgi Road, Solapur",
+            "lat": 17.6599,
+            "lon": 75.9064
+        }
+    ],
+    "Latur": [
+        {
+            "name": "Latur Agro Centre",
+            "address": "Ausa Road, Latur",
+            "lat": 18.4088,
+            "lon": 76.5604
+        }
+    ],
+    "Osmanabad": [
+        {
+            "name": "Osmanabad Agro Services",
+            "address": "Tuljapur Road, Osmanabad",
+            "lat": 18.186,
+            "lon": 76.0419
+        }
+    ],
+    "Parbhani": [
+        {
+            "name": "Parbhani Krushi Kendra",
+            "address": "Basmat Road, Parbhani",
+            "lat": 19.2685,
+            "lon": 76.772
+        }
+    ],
+    "Nanded": [
+        {
+            "name": "Nanded Agro Suppliers",
+            "address": "Vishnupuri, Nanded",
+            "lat": 19.1383,
+            "lon": 77.321
+        }
+    ],
+    "Akola": [
+        {
+            "name": "Akola Fertilizers",
+            "address": "Ram Nagar, Akola",
+            "lat": 20.7096,
+            "lon": 77.0082
+        }
+    ],
+    "Buldhana": [
+        {
+            "name": "Buldhana Agro Mart",
+            "address": "Main Road, Buldhana",
+            "lat": 20.5293,
+            "lon": 76.1842
+        }
+    ],
+    "Washim": [
+        {
+            "name": "Washim Agro Services",
+            "address": "Jambharun Road, Washim",
+            "lat": 20.1112,
+            "lon": 77.151
+        }
+    ],
+    "Yavatmal": [
+        {
+            "name": "Yavatmal Fertilizer Depot",
+            "address": "Datta Chowk, Yavatmal",
+            "lat": 20.393,
+            "lon": 78.132
+        }
+    ],
+    "Wardha": [
+        {
+            "name": "Wardha Krushi Kendra",
+            "address": "Sevagram, Wardha",
+            "lat": 20.7453,
+            "lon": 78.6022
+        }
+    ],
+    "Chandrapur": [
+        {
+            "name": "Chandrapur Agro Suppliers",
+            "address": "Mul Road, Chandrapur",
+            "lat": 19.9615,
+            "lon": 79.2961
+        }
+    ],
+    "Gondia": [
+        {
+            "name": "Gondia Agro Mart",
+            "address": "Railway Station Road, Gondia",
+            "lat": 21.4604,
+            "lon": 80.1926
+        }
+    ],
+    "Ratnagiri": [
+        {
+            "name": "Ratnagiri Fertilizers",
+            "address": "Shivaji Nagar, Ratnagiri",
+            "lat": 16.9944,
+            "lon": 73.3
+        }
+    ],
+    "Sindhudurg": [
+        {
+            "name": "Sindhudurg Agro Center",
+            "address": "Malvan, Sindhudurg",
+            "lat": 16.0596,
+            "lon": 73.4625
+        }
+    ]
+}
